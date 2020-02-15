@@ -10,7 +10,7 @@ In this assignment, you will design the tables to hold data in the CSVs, import 
 
 1. Data Modeling
 
-2. Data Engineering
+2. Data Engineering 
 
 3. Data Analysis
 
