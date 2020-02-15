@@ -20,6 +20,7 @@ Import each CSV file into the corresponding SQL table.
 
 #### Data Analysis
 Queried the database for the following questions, approaches included joins, group by, order by, and extracts to derive accurate results:
+
 List the following details of each employee: employee number, last name, first name, gender, and salary.
 
 List employees who were hired in 1986.
