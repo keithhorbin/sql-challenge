@@ -53,4 +53,8 @@ Queried the database for the following questions, approaches included joins, gro
 
 * Jupyter Notebook file of the import to pandas, additional analysis and charts
 
+* Image outputs saved in the Image folder
+
+* Source CSV's in the data folder
+
 
