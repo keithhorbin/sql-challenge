@@ -1,12 +1,10 @@
-# Employee Database Assignment
-
-
+# Employee Database ERD and ETL 
 
 ## Background
 
-Research project on employees of a corporation over two decades. The task is to recreate databases off of CSV records that exist for the corporation.
+Project on employees of a corporation over two decades. The task is to create databases off of CSV records that exist for the corporation.
 
-In this assignment, I had to understand the data files, learn how they are interrelated, diagram the relationships, design and build the Schema, import the CSVs into a SQL database, and answer some questions about the data. In short I performed:
+To do this I had to understand the data files, learn how they are interrelated, diagram the relationships, design and build the Schema, import the CSVs into a SQL database, and answer some questions about the data. In short I performed:
 
 1. Data Modeling
 
@@ -14,12 +12,9 @@ In this assignment, I had to understand the data files, learn how they are inter
 
 3. Data Analysis
 
-   
-
 #### Data Modeling
 
 - Inspect the CSVs and sketch out an ERD of the tables. 
-
 
 #### Data Engineering
 
@@ -29,7 +24,7 @@ In this assignment, I had to understand the data files, learn how they are inter
 
 #### Data Analysis
 
-Queried the database for the following questions, approaches included joins, group by, order by, and extracts to derive accurate and meaningful results:
+Queried the database for the following questions, approaches included joins, group by, order by, and extracts to derive accurate and meaningful insights:
 
 - List the following details of each employee: employee number, last name, first name, gender, and salary.
 - List employees who were hired in 1986.
@@ -46,15 +41,8 @@ Queried the database for the following questions, approaches included joins, gro
 ## Files Uploaded
 
 * Image of the ERD map for the database
-
 * SQL file of the table schema
-
 * SQL file of  the queries above
-
 * Jupyter Notebook file of the import to pandas, additional analysis and charts
-
 * Image outputs saved in the Image folder
-
 * Source CSV's in the data folder
-
-
